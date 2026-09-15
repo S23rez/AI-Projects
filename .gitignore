@@ -1,0 +1,32 @@
+# Python and AI/ML
+__pycache__/
+*.pyc
+venv/
+.env
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.h5
+data/
+datasets/
+.idea/
+# OS Generated
+.DS_Store
+# Virtual Environments
+.venv/
+
+env/
+
+# API Keys and Secrets (CRITICAL)
+
+.env.local
+
+# Machine Learning Weights & Large Files
+
+*.onnx
+models/
+weights/
+
+# Python & IDE
+.ipynb_checkpoints/
